@@ -1,14 +1,18 @@
-#   Gustavo Deves Bueno
+#  Gustavo Deves Bueno
 
 **` Estudante de Engenharia da Computação `**
 
-Me chamo Gustavo Deves Bueno, tenho 23 anos e sou natural do Rio Grande do Sul. Atualmente, estou cursando Engenharia da Computação na UNISINOS(Universidade do Vale do Sinos). Adoro aprender sobre Programação e Eletrônica voltado para robótica.
+Me chamo Gustavo Deves Bueno, tenho 23 anos e sou natural do Rio Grande do Sul. Atualmente, estou cursando Engenharia da Computação na UNISINOS(Universidade do Vale do Sinos). Sou apaixonado por tecnologia.
 
-Linkedin: www.linkedin.com/in/gustavo-deves-bueno-135366247
 
----
 
-### 🤖 Linguagens e Tecnologias
+## 🌐 Minhas Redes Sociais
+
+<div> 
+  <a href=" www.linkedin.com/in/gustavo-deves-bueno" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+</div>
+
+## 🤖 Linguagens e Tecnologias
 
 
 <img 
@@ -63,7 +67,7 @@ Linkedin: www.linkedin.com/in/gustavo-deves-bueno-135366247
 <br/>
 <br/>
 
-### 📊 Estatísticas
+## 📊 Estatísticas
 
 <p>
   <img 
