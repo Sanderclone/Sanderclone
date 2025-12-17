@@ -9,7 +9,7 @@ Me chamo Gustavo Deves Bueno, tenho 23 anos e sou natural do Rio Grande do Sul. 
 ## 🌐 Minhas Redes Sociais
 
 <div> 
-  <a href="www.linkedin.com/in/gustavodevesbueno" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="www.linkedin.com/in/gustavodevesbueno/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
 ## 🤖 Linguagens e Tecnologias
