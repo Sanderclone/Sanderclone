@@ -14,7 +14,6 @@ Me chamo Gustavo Deves Bueno, tenho 23 anos e sou natural do Rio Grande do Sul. 
 
 ## 🤖 Linguagens e Tecnologias
 
-
 <img 
     align="left" 
     alt="C" 
