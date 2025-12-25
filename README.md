@@ -72,7 +72,7 @@ Me chamo Gustavo Deves Bueno, tenho 23 anos e sou natural do Rio Grande do Sul. 
   <img 
     align="left" 
     alt="GitHub Stats" 
-    height="300" 
+    height="165" 
     style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api?username=Sanderclone&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
@@ -80,7 +80,7 @@ Me chamo Gustavo Deves Bueno, tenho 23 anos e sou natural do Rio Grande do Sul. 
 <img 
       align="left" 
       alt="GitHub Stats" 
-      width="362" 
+      height="165" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sanderclone&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 
