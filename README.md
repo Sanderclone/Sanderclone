@@ -68,7 +68,8 @@ Me chamo Gustavo Deves Bueno, tenho 23 anos e sou natural do Rio Grande do Sul. 
 
 ## 📊 Estatísticas
 
-<p align="center">
+<p 
+  align="center">
   <img 
     src="https://github-readme-stats.vercel.app/api?username=Sanderclone&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br&cache_seconds=86400"
     height="165"
