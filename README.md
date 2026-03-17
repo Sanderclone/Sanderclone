@@ -1,4 +1,3 @@
-#  Gustavo Deves Bueno
 
 **` Estudante de Engenharia da Computação `**
 
